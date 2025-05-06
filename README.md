@@ -3,6 +3,8 @@
 
 This is a mock back-end REST API for managing to-do lists and their steps. Authentication is handled using JWT tokens. No real database is used — all data is stored in memory.
 
+The deployment is done in railway. The base URL will be `https://go-restapi-todo-production.up.railway.app` for remote access
+
 The base in localhost will be `http://localhost:8080` if no configuration is done.
 
 ---
